@@ -1,0 +1,44 @@
+Q: What is the definition of Server Port?
+
+A Port is a communication endpoint - most modern computers have both physical
+    and logical ports where connections are engaged. My computer uses a usb
+    port to communicate with my keyboard, my mouse, etc. 
+
+Computers also have logical ports - these function similar to physical ports,
+    except they aren't tangible; they function via the internet/networking
+    protocols. In networking, a port is a logical construct which identifies
+    a specific process or type of service. They are identified for each
+    protocol by a 16-bit unsigned number, known as the port number.
+
+
+
+Q: What is server port range?
+
+Our computers have a certain range of logical port numbers that they will be
+    able to recognize/remember. This number is 65535 - that means there are
+    65535 different ports that logical processes can be executed off of this.
+    When a new process requires a port for communication with/from my laptop,
+    one of these numbers will be selected and used (provided it is not in use
+    by another process).
+
+
+Q: How many bits does the above number represent?
+
+The number 65535 (the number of available ports on a modern pc) represents
+    16 bits, or 2 bytes.
+
+
+
+Q: State 10 common server ports:
+
+1.  20:  File Transfer Protocol - Data
+2.  22:  Secure SHell (Authentication)
+3.  53:  Domain Name Server
+4.  80:  HTTP
+5.  115: Simple File Transfer Protocol (SFTP)
+6.  118: SQL Services
+7.  156: SQL Services
+8.  194: Internet Relay Chat
+9.  443: HTTPS
+10. 546: DHCP Client
+
