@@ -1,0 +1,57 @@
+My Droplet IP: 159.203.20.255
+
+ping1 :
+pinging ATKLASS.COM @ 108.163.161.66
+root@lamp-adampublicover:~# ping 108.163.161.66
+PING 108.163.161.66 (108.163.161.66) 56(84) bytes of data.
+64 bytes from 108.163.161.66: icmp_seq=1 ttl=57 time=9.70 ms
+64 bytes from 108.163.161.66: icmp_seq=2 ttl=57 time=8.62 ms
+64 bytes from 108.163.161.66: icmp_seq=3 ttl=57 time=8.51 ms
+64 bytes from 108.163.161.66: icmp_seq=4 ttl=57 time=8.65 ms
+64 bytes from 108.163.161.66: icmp_seq=5 ttl=57 time=8.54 ms
+
+
+ping2:
+pinging QUIZATCLASS.COM @ 184.168.131.241
+root@lamp-adampublicover:~# ping 184.168.131.241
+PING 184.168.131.241 (184.168.131.241) 56(84) bytes of data.
+64 bytes from 184.168.131.241: icmp_seq=1 ttl=52 time=73.8 ms
+64 bytes from 184.168.131.241: icmp_seq=2 ttl=52 time=72.7 ms
+64 bytes from 184.168.131.241: icmp_seq=3 ttl=52 time=72.6 ms
+64 bytes from 184.168.131.241: icmp_seq=4 ttl=52 time=72.7 ms
+64 bytes from 184.168.131.241: icmp_seq=5 ttl=52 time=72.7 ms
+
+
+ping3:
+pinging BLACKBOARD.COM @ 69.196.244.99
+root@lamp-adampublicover:~# ping 69.196.244.99
+PING 69.196.244.99 (69.196.244.99) 56(84) bytes of data.
+64 bytes from 69.196.244.99: icmp_seq=1 ttl=238 time=17.9 ms
+64 bytes from 69.196.244.99: icmp_seq=2 ttl=238 time=16.5 ms
+64 bytes from 69.196.244.99: icmp_seq=3 ttl=238 time=16.6 ms
+64 bytes from 69.196.244.99: icmp_seq=4 ttl=238 time=16.5 ms
+64 bytes from 69.196.244.99: icmp_seq=5 ttl=238 time=16.7 ms
+
+
+
+ping4:
+pinging GBLEARN.COM @ 108.163.161.66 (this ip is the same as atklass.com)
+root@lamp-adampublicover:~# ping 108.163.161.66
+PING 108.163.161.66 (108.163.161.66) 56(84) bytes of data.
+64 bytes from 108.163.161.66: icmp_seq=1 ttl=57 time=9.47 ms
+64 bytes from 108.163.161.66: icmp_seq=2 ttl=57 time=8.49 ms
+64 bytes from 108.163.161.66: icmp_seq=3 ttl=57 time=8.57 ms
+64 bytes from 108.163.161.66: icmp_seq=4 ttl=57 time=8.59 ms
+64 bytes from 108.163.161.66: icmp_seq=5 ttl=57 time=8.71 ms
+
+
+
+ping5:
+pinging REDDIT.COM @ 151.101.1.140
+root@lamp-adampublicover:~# ping 151.101.1.140
+PING 151.101.1.140 (151.101.1.140) 56(84) bytes of data.
+64 bytes from 151.101.1.140: icmp_seq=1 ttl=59 time=1.50 ms
+64 bytes from 151.101.1.140: icmp_seq=2 ttl=59 time=0.477 ms
+64 bytes from 151.101.1.140: icmp_seq=3 ttl=59 time=0.436 ms
+64 bytes from 151.101.1.140: icmp_seq=4 ttl=59 time=0.478 ms
+64 bytes from 151.101.1.140: icmp_seq=5 ttl=59 time=0.472 ms

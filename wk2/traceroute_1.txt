@@ -1,0 +1,12 @@
+tracing route from remote host to GBLEARN.COM:
+
+
+ 1  * * *
+ 2  10.78.4.6 (10.78.4.6)  1.897 ms 10.78.4.4 (10.78.4.4)  1.540 ms 10.78.4.6 (10.78.4.6)  1.791 ms
+ 3  138.197.249.86 (138.197.249.86)  3.724 ms  1.486 ms 138.197.249.82 (138.197.249.82)  1.227 ms
+ 4  ix-ae-4-0.tcore2.tnk-toronto.as6453.net (63.243.172.33)  1.605 ms ix-ae-12-0.tcore1.tnk-toronto.as6453.net (64.86.33.53)  1.826 ms ix-ae-4-0.tcore2.tnk-toronto.as6453.net (63.243.172.33)  1.582 ms
+ 5  if-ae-7-2.tcore1.w6c-montreal.as6453.net (66.198.96.61)  8.197 ms if-ae-2-2.tcore1.tnk-toronto.as6453.net (64.86.33.89)  8.664 ms  8.700 ms
+ 6  if-ae-7-2.tcore1.w6c-montreal.as6453.net (66.198.96.61)  8.133 ms 66.198.96.58 (66.198.96.58)  7.895 ms if-ae-7-2.tcore1.w6c-montreal.as6453.net (66.198.96.61)  7.794 ms
+ 7  66.198.96.58 (66.198.96.58)  7.785 ms ae1.cr5.mtl.iweb.com (184.107.1.209)  8.738 ms 66.198.96.58 (66.198.96.58)  7.765 ms
+ 8  ae1.cr5.mtl.iweb.com (184.107.1.209)  8.739 ms po21.dr13.mtl.iweb.com (184.107.1.246)  9.808 ms  9.812 ms
+ 9  gblearn.com (108.163.161.66)  9.005 ms  8.390 ms  8.362 ms

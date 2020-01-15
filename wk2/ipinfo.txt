@@ -1,0 +1,12 @@
+IP lookups performed via ipinfo.info/html/ip_checker.php
+
+Domains from whois.txt:
+    Domain Name		IP Address
+1   atklass.com		108.163.161.66
+2   quizatclass.com	184.168.131.241
+3   blackboard.com	69.196.244.99
+4   gblearn.com		108.163.161.66
+5   reddit.com		151.101.1.140
+
+
+
